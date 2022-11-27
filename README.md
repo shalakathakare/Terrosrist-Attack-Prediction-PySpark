@@ -1,5 +1,5 @@
-# terrosrist-attack-prediction-pyspark
-Terrorist Attack Prediction in Pyspark
+
+# Terrorist Attack Prediction in Pyspark
 
 ## Overview:
 
